@@ -1,0 +1,37 @@
+{
+  "type": "entity",
+  "pools": [
+    {
+      "rolls": 3,
+      "bonus_rolls": 3,
+      "entries": [
+        {
+          "type": "empty",
+          "weight": 100
+        },
+        {
+          "type": "item",
+          "weight": 99,
+          "name": "minecraft:amethyst_shard",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

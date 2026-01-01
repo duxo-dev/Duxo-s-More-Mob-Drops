@@ -1,0 +1,26 @@
+{
+  "type": "entity",
+  "pools": [
+    {
+      "rolls": 5,
+      "bonus_rolls": 3,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:sweet_berries",
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        },
+                {
+          "type": "empty",
+          "weight": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Adds more mob drops! Made for LT Survival Worlds! Made by Duxo <3",
+    "min_format": [
+      94,
+      1
+    ],
+    "max_format": 94
+  }
+}
